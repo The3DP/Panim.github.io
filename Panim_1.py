@@ -1,17 +1,17 @@
 ################################################################################################
-## Features:
-##---------------------------------------------------------------------------------------------
-## Triple-layer orbital flow – inner core, mid-arms, and outer drift all move independently.
-##=============================================================================================
-## Continuous RGB hue cycling – true smooth color blending with sine-based offsets.
-##=============================================================================================
-## Volumetric depth – brightness fades by “distance,” simulating a real 3D galaxy.
-##=============================================================================================
-## Core plasma pulse – the galactic center throbs with energy waves.
-##=============================================================================================
-## Procedural star flicker – subtle random glints across the arms.
-##=============================================================================================
-## Perfectly smooth motion – cursor repositioning, no flicker, optimized for terminals.
+## Features:                                                                                  ##
+##--------------------------------------------------------------------------------------------##
+## Triple-layer orbital flow – inner core, mid-arms, and outer drift all move independently.  ##
+##============================================================================================##
+## Continuous RGB hue cycling – true smooth color blending with sine-based offsets.           ##
+##============================================================================================##
+## Volumetric depth – brightness fades by “distance,” simulating a real 3D galaxy.            ##
+##============================================================================================##
+## Core plasma pulse – the galactic center throbs with energy waves.                          ##
+##============================================================================================##
+## Procedural star flicker – subtle random glints across the arms.                            ##
+##============================================================================================##
+## Perfectly smooth motion – cursor repositioning, no flicker, optimized for terminals.       ##
 ################################################################################################
 
 import os, sys, math, time, random
